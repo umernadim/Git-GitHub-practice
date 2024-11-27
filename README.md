@@ -1,3 +1,4 @@
 # Git-GitHub-practice
-this file is to learn git &amp; git-hub
-author:umernadim
+this file is to learn git & git-hub
+<br>
+author: umernadim
