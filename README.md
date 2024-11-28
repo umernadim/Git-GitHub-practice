@@ -1,4 +1,4 @@
 # Git-GitHub-practice
 this file is to learn git & git-hub
 <br>
-author: umernadim
+author: muhammad umer
